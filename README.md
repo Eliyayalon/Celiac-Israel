@@ -1,4 +1,4 @@
-# Celiac-Isreal
+# Celiac-Israel
 ## Our vision
  <img align="right" src="https://github.com/Eliyayalon/Celiac-Israel/blob/master/image/celiac.gif"/>
 
